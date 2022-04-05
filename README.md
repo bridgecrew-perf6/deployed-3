@@ -1,2 +1,0 @@
-# Ithil deployed contracts
-
